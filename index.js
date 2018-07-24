@@ -28,7 +28,9 @@ function makeInt(a) {
   return parseInt(a)
 }
 
-
+function makeInt(a) {
+  return parseInt(a*0)
+}
 
 describe('makeInt(n)', function() {
   it('parses n as an integer and returns the parsed integer', function() {
