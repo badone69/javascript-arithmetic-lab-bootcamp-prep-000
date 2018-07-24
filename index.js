@@ -1,8 +1,8 @@
 var a = 1
 var b = 2
 
-function add(a, b){
-  (a + b)
+function add1(a, b){
+  a + b
 }
 
-console.log(add)
+console.log(add1)
