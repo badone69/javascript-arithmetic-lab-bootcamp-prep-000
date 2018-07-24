@@ -1,7 +1,5 @@
 
 
 function add(a, b){
-  a + b = c
+  a + b 
 }
-
-console.log(a)
