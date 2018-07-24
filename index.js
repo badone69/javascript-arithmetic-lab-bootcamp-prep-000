@@ -27,12 +27,10 @@ function dec(a){
 function makeInt(a) {
   parseInt(a)
   return a
-}
-
-function makeInt(a) {
   parseInt(a*0)
   return a
 }
+
 
 
 describe('makeInt(n)', function() {
